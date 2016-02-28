@@ -1,5 +1,6 @@
 # wechat_steps
 刷微信运动的步数
+
 要修改参数，里面的`uid`和`steps`，具体如下：
 
 ```php
